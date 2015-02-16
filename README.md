@@ -1,6 +1,6 @@
 # refrain-marked
 
-[marded] with [refrain].
+[marked] with [refrain].
 
 
 ## License
